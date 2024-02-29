@@ -1,3 +1,5 @@
+#str method
+
 class Game:
     def __init__(self, name, creator):
         self.name = name
